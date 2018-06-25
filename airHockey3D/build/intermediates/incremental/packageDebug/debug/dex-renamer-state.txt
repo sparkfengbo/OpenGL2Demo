@@ -1,0 +1,4 @@
+#Mon Jun 25 15:03:06 CST 2018
+base.0=/Users/leegend/GitHub/OpenGL2Demo/airHockey3D/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

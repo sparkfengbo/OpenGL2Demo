@@ -1,0 +1,4 @@
+#Mon Jun 25 15:01:46 CST 2018
+base.0=/Users/leegend/GitHub/OpenGL2Demo/heightmap/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

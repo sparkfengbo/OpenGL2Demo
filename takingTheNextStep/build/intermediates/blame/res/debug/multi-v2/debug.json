@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/leegend/GitHub/OpenGL2Demo/takingTheNextStep/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/leegend/GitHub/OpenGL2Demo/takingTheNextStep/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "16,11,13,25,24,14,12",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "751,457,580,1059,1012,650,515",
+                        "endLines": "22,11,13,25,24,14,12",
+                        "endColumns": "19,57,69,48,46,99,64",
+                        "endOffsets": "1002,510,645,1103,1054,745,575"
+                    },
+                    "to": {
+                        "startLines": "2,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,311,369,439,488,535,635",
+                        "endLines": "8,9,10,11,12,13,14",
+                        "endColumns": "19,57,69,48,46,99,64",
+                        "endOffsets": "306,364,434,483,530,630,695"
+                    }
+                }
+            ]
+        }
+    ]
+}
